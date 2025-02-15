@@ -24,7 +24,6 @@ This project primarily uses **React class components** and the following lifecyc
 3️⃣ **`componentWillUnmount()`** - Runs before the component is removed from the DOM.  
 
 ---
----
 
 ## 🚀 How to Run the Project
 1. Clone the repository  
@@ -42,6 +41,9 @@ This project primarily uses **React class components** and the following lifecyc
   ```sh
   Start the development server
   ```sh
+
+![Uploading image.png…]()
+
 
 
 
