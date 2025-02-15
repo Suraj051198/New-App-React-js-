@@ -45,6 +45,7 @@ This project primarily uses **React class components** and the following lifecyc
 ---
 
 ### 📸 **Project Screenshot**
-*(Upload an image and add the link here once available)*  
+![image](https://github.com/user-attachments/assets/7308f226-4c76-40e7-9828-b18dbe9edf22)
+  
 
 ---
